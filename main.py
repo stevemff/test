@@ -1,6 +1,6 @@
 # This is a sample Python model
 
-# Import dependencies - Just random
+# Import dependencies - Just random import
 import random
 
 
